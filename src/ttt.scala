@@ -1,5 +1,5 @@
 object ttt {
 
-
+print("sdfdfghfhsf")
 
 }
