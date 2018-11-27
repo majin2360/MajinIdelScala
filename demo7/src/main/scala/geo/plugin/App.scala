@@ -27,6 +27,4 @@ object App {
     Predef.println("wqeqweqwewe")
 
   }
-
-
 }
